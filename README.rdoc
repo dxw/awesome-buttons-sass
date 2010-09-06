@@ -1,0 +1,3 @@
+= awesome-buttons-sass
+
+A clone of awesome-buttons ( http://github.com/gr2m/awesome-buttons ) in SASS ( http://sass-lang.com/ ).
